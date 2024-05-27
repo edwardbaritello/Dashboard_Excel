@@ -1,2 +1,2 @@
-# Dashboard_Excel
-creo una dashboard in excel
+# DashboardExcel
+creo una dashboard in excel per analizzare dati Sales
